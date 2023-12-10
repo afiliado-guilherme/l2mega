@@ -15,10 +15,10 @@ $server_url = 'www.l2quake.com'; // Digite exatamente o URL onde se encontra est
 # Qual método de conexão você irá utilizar? (recomendamos MySQLi ou PDO-MySQL)
 $conMethod = 3; // 1 = MySQL, 2 = MySQLi, 3 = PDO-MySQL
 
-$host = '127.0.0.1'; // Endereço do host
+$host = 'db4free.net; // Endereço do host
 $dbnm = 'l2mega'; // Nome do banco
-$user = 'root'; // Usuário
-$pass = '123456'; // Senha
+$user = 'guilherme_admin'; // Usuário
+$pass = '12345678'; // Senha
 
 // $pass = 'tcd$5%)A,@-3'; // Senha
 
